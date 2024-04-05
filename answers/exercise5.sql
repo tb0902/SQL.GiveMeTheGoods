@@ -1,0 +1,1 @@
+SELECT * FROM Students WHERE County IN (SintMaarten, Haiti);
